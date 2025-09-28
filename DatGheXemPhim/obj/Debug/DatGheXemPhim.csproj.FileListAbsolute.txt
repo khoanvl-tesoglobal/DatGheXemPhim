@@ -1,0 +1,11 @@
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.Form1.resources
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.Properties.Resources.resources
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\bin\Debug\DatGheXemPhim.exe.config
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\bin\Debug\DatGheXemPhim.exe
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\bin\Debug\DatGheXemPhim.pdb
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.exe
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.pdb
+C:\Users\aaa\source\repos\DatGheXemPhim\DatGheXemPhim\obj\Debug\DatGheXemPhim.exe.config
